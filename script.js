@@ -23,4 +23,9 @@ function Week() {
         document.getElementsByClassName("result2")[1].innerHTML = "مطالعات";
         document.getElementsByClassName("result3")[1].innerHTML = "زبان";
     }
+    else {
+        document.getElementsByClassName("result1")[1].innerHTML = "لطفا یک روز وارد کنید"
+        document.getElementsByClassName("result2")[1].innerHTML = "لطفا یک روز وارد کنید"
+        document.getElementsByClassName("result3")[1].innerHTML = "لطفا یک روز وارد کنید"
+    }
 }
