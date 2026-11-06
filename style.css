@@ -63,6 +63,7 @@ div.conth{
     text-shadow: 2px 2px 5px greenyellow;
     font-size: larger;
     border: 4px dashed gray;
+    curosor:pointer
 }
 .resultb:hover{
     transform: scale(1.2);
